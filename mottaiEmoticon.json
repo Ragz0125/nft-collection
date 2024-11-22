@@ -1,0 +1,15 @@
+{
+"name":"Bald Netizen",
+  "description": "A calm bald netizen contemplating about life",
+  "traits":[
+    {
+      "trait_type":"Thoughts",
+      "value":5
+    },
+    {
+      "trait_type":"Craziness",
+      "value":5
+    }
+  ]
+
+}
