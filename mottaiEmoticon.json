@@ -1,6 +1,7 @@
 {
 "name":"Bald Netizen",
   "description": "A calm bald netizen contemplating about life",
+  "image":"https://ragz0125.github.io/nft-collection/baldEmoticon.png",
   "traits":[
     {
       "trait_type":"Thoughts",
